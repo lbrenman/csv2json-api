@@ -9,6 +9,6 @@ curl --location 'http://localhost:3000/upload' \
 {
     "message": "CSV processed successfully",
     "recordsProcessed": 5,
-    "apiResponse": "This URL has no default content configured. <a href=\"https://webhook.site/#!/view/ae427173-4eb8-4ed8-94cd-26f45c6dde4f\">View in Webhook.site</a>."
+    "apiResponse": "Success."
 }
 ```
